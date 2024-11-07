@@ -1,4 +1,4 @@
-
+//this program is reverse a string
 public class Reverse_string {
     public static void main(String[] args) {
         String str="java";
